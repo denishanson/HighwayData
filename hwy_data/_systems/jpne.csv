@@ -77,8 +77,7 @@ jpne;JPN;E35;;;Sasebo;jpn.e035;
 jpne;JPN;E35;;Mat;Matsuura;jpn.e035mat;
 jpne;JPN;E35;;Kar;Karatsu;jpn.e035kar;
 jpne;JPN;E35;;Fuk;Fukuoka;jpn.e035fuk;
-jpne;JPN;E38;;;;jpn.e038;
-jpne;JPN;E38;;Kus;Kushiro;jpn.e038kus;
+jpne;JPN;E38;;;;jpn.e038;E38Kus
 jpne;JPN;E39;;;;jpn.e039;
 jpne;JPN;E41;;;;jpn.e041;
 jpne;JPN;E41;;Ana;Anamizu;jpn.e041ana;
